@@ -9,3 +9,14 @@
 /home/martin/data/marocco/obj/Debug/netcoreapp2.1/marocco.AssemblyInfo.cs
 /home/martin/data/marocco/obj/Debug/netcoreapp2.1/marocco.dll
 /home/martin/data/marocco/obj/Debug/netcoreapp2.1/marocco.pdb
+/home/martin/data/marocco/dhis2-dotnet-test/bin/Debug/netcoreapp2.1/marocco.deps.json
+/home/martin/data/marocco/dhis2-dotnet-test/bin/Debug/netcoreapp2.1/marocco.runtimeconfig.json
+/home/martin/data/marocco/dhis2-dotnet-test/bin/Debug/netcoreapp2.1/marocco.runtimeconfig.dev.json
+/home/martin/data/marocco/dhis2-dotnet-test/bin/Debug/netcoreapp2.1/marocco.dll
+/home/martin/data/marocco/dhis2-dotnet-test/bin/Debug/netcoreapp2.1/marocco.pdb
+/home/martin/data/marocco/dhis2-dotnet-test/obj/Debug/netcoreapp2.1/marocco.csprojAssemblyReference.cache
+/home/martin/data/marocco/dhis2-dotnet-test/obj/Debug/netcoreapp2.1/marocco.csproj.CoreCompileInputs.cache
+/home/martin/data/marocco/dhis2-dotnet-test/obj/Debug/netcoreapp2.1/marocco.AssemblyInfoInputs.cache
+/home/martin/data/marocco/dhis2-dotnet-test/obj/Debug/netcoreapp2.1/marocco.AssemblyInfo.cs
+/home/martin/data/marocco/dhis2-dotnet-test/obj/Debug/netcoreapp2.1/marocco.dll
+/home/martin/data/marocco/dhis2-dotnet-test/obj/Debug/netcoreapp2.1/marocco.pdb
